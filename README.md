@@ -4,11 +4,11 @@
 
 This is a repository containing assembly implementations of useful actions for ethical hackers / pentesters.
 
-| Shellcode                    | Status |
-| ---------------------------- | ------ |
-| Reverse shell linux          | ✅     |
-| Execute shell linux          | ✅     |
-| HTTP download file & execute | 🚧     |
+| Shellcode           | Status |
+| ------------------- | ------ |
+| Reverse shell linux | ✅     |
+| Execute shell linux | ✅     |
+| HTTP download file  | ✅     |
 
 ## Convert assembly to shellcode
 
